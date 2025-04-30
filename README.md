@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi there 👋, I'm Alex</h1>
 <h3 align="center">🔧 Embedded Systems | 🔍 Reverse Engineering | 💻 C Developer | Python developer | 📡 SDR Enthusiast</h3>
 
 ---
