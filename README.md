@@ -37,7 +37,6 @@
   <img src="https://img.shields.io/badge/ESP32-333333?style=for-the-badge&logo=espressif&logoColor=white" />
   <img src="https://img.shields.io/badge/AVR-000000?style=for-the-badge&logo=atmel&logoColor=white" />
   <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
-  <img src="https://img.shields.io/badge/MSP430-bf2c0b?style=for-the-badge&logo=texasinstruments&logoColor=white" />
 </p>
 
 #### 🛠️ Frameworks & Tools  
