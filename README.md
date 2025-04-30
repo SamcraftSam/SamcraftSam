@@ -47,8 +47,10 @@
   <img src="https://img.shields.io/badge/GNU%20Radio-17A2B8?style=for-the-badge&logo=gnuradio&logoColor=white" />
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenOCD-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/FreeRTOS-27ae60?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
