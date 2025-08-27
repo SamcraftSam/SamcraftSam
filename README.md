@@ -5,10 +5,11 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working in the field of **embedded development** and **SDR** as a member of the **CHAS** project.
+- 🔭 Currently working in the field of **embedded development** and **SDR** as a member of various project.
 - 💻 I also have experience into **reverse engineering**, **ethical hacking**, and **Linux**
 - 🧠 My passion is to solve complex problems and expanding my knowledge
-- 🛰️ Current pet project - **Autonomous SDR station** for intercepting and analyzing satellite signals (e.g. NOAA, ISS)
+- 🛰️ One of my pet projects - **Autonomous SDR station** for intercepting and analyzing satellite signals (e.g. NOAA, ISS)
+- 📻 Founder of the **ARC Project** initiative which aims on building free and decentralised Interner-over-radio MESH network, powered by custom general-purpose OS for microcontroller-based devices.
 - 📫 Reach me via mail: anon_h4c3k3r@proton.me
 
 ---
